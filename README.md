@@ -1,2 +1,5 @@
 # Remove_AdHasBeenRemoved
-A JS can remove the bilibili's tips of Ad has been removed 
+
+一个可以移除b站首页让你禁用插件的脚本
+```
+该脚本需要配合https://www.tampermonkey.net/使用
